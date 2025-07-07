@@ -17,7 +17,7 @@ https://python.langchain.com/docs/integrations/tools/
 
 ### Model
 
-![img.png](img.png)
+![Model_1.png](langchain%2Fimage%2FModel_1.png)
 
 #### 大语言模型
 
@@ -119,6 +119,26 @@ API地址：https://python.langchain.com/api_reference/langchain/chains.html
 ![Agent_1.png](langchain%2Fimage%2FAgent_1.png)
 
 ### 基本使用
+
+[Agent_tools_tavily_1.py](langchain%2Fagent%2FAgent_tools_tavily_1.py)
+
+[Agent_tools_document_2.py](langchain%2Fagent%2FAgent_tools_document_2.py)
+
+[Agent_tools_demo_3.py](langchain%2Fagent%2FAgent_tools_demo_3.py)
+
+[Agent_tools_demo_3.py](langchain%2Fagent%2FAgent_tools_demo_3.py)
+
+### ReAct Agent
+
+![Agent_reActAgent_1.png](langchain%2Fimage%2FAgent_reActAgent_1.png)
+
+[Agent_ReActAgent_5.py](langchain%2Fagent%2FAgent_ReActAgent_5.py)
+
+[Agent_ReActAgent_6.py](langchain%2Fagent%2FAgent_ReActAgent_6.py)
+
+### Self-Ask with Search Agent
+
+![Agent_selfAskWithAgent.png](langchain%2Fimage%2FAgent_selfAskWithAgent.png)
 
 # 下载模型和数据集
 
